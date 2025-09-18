@@ -1,0 +1,152 @@
+ManifestFileVersion: 0
+CRC: 3205960483
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c4993b32b04a03f5c47299d13038084
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d8cded8618d6c83a21fc3c3e89b22b5d
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9c4993b32b04a03f5c47299d13038084
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a3d3ef1a5bbfb4e0a910fbbe5830b1f9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 154
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 218
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Nature/Country side/prefab/house_a.prefab
+- Assets/Nature/Texture/T_Fir_bark_02_MT_AO_G.tga
+- Assets/Nature/Standard Assets/Environment/Water/Water/Shaders/FXWaterPro.shader
+- Assets/Nature/Country side/prefab/house_g.prefab
+- Assets/Nature/Standard Assets/Environment/Water/Water/Materials/WaterProDaytime.mat
+- Assets/VacuumShaders/Terrain To Mesh/Shaders/Legacy Shaders/Diffuse_8.shader
+- Assets/Nature/Texture/Grass_N.png
+- Assets/Nature/Country side/prefab/house_e.prefab
+- Assets/Nature/Standard Assets/Environment/Water/Water/Prefabs/WaterProDaytime.prefab
+- Assets/Nature/Meshes/Fir_02_Small_Trial_LOD2.asset
+- Assets/Nature/Texture/Rock_D.tga
+- Assets/Nature/Standard Assets/Environment/Water/Water/Models/WaterPlane.fbx
+- Assets/Nature/Meshes/unity_grass_grass_bush_03.fbx
+- Assets/Nature/Texture/T_Fir_02_Atlas_N.png
+- Assets/Nature/Shaders/Cross_Model_Shader.shader
+- Assets/Nature/Country side/Materials/countryside_props.mat
+- Assets/Nature/Shaders/Tree_Leaves_Specular.shader
+- Assets/Nature/Prefabs/prefab_unity_grass_grass_bush_03.prefab
+- Assets/Nature/Prefabs/Fir_03_Small.prefab
+- Assets/Nature/Texture/Grass_D.tga
+- Assets/Nature/SplatAlpha 1.texture2D
+- Assets/Nature/Shaders/Tree_Bark_Metalic.shader
+- Assets/Nature/Texture/Ground2_D.tga
+- Assets/Nature/SplatAlpha 0.texture2D
+- Assets/Nature/Materials/M_Fir_Bark_02.mat
+- Assets/Nature/Meshes/unity_grass_forest_heather_01.fbx
+- Assets/Nature/Prefabs/Fir_08_Small 3.prefab
+- Assets/Nature/Texture/T_Fir_bark_02_BC.tga
+- Assets/Nature/Standard Assets/Environment/Water/Water/Materials/WaterPlaneMaterial.mat
+- Assets/Nature/Country side/prefab/house_f.prefab
+- Assets/Nature/Meshes/Fir_02_Small_Trial_LOD1.asset
+- Assets/Nature/Prefabs/Fir_02_Small.prefab
+- Assets/Nature/Texture/Ground1_D.tga
+- Assets/Nature/Country side/Materials/countryside_veg.mat
+- Assets/Nature/Prefabs/prefab_unity_grass_forest_heather_01.prefab
+- Assets/Nature/Country side/Textures/countryside_veg.tif
+- Assets/Nature/Materials/M_Fir_02_Cross.mat
+- Assets/Nature/Texture/T_Fir_leaves_N.TGA
+- Assets/Nature/Texture/T_Fir_leaves_MT_AO_G.tga
+- Assets/Nature/Materials/M_Fir_Leaves.mat
+- Assets/Nature/Texture/T_Fir_bark_02_N.tga
+- Assets/Nature/Country side/Textures/countryside_props.tif
+- Assets/Nature/Materials/M_Unity_Grass_forest_heather_01.mat
+- Assets/Nature/Texture/T_Fir_leaves_BC_T.TGA
+- Assets/Nature/Prefab/Terrain.prefab
+- Assets/Nature/Materials/New Material.mat
+- Assets/Nature/Materials/M_Unity_Grass_atlas_grass_01.mat
+- Assets/Nature/Texture/T_atlas_grass_01_A_M.png
+- Assets/Nature/Country side/prefab/house_c.prefab
+- Assets/Nature/Texture/T_forest_heather_01_A_M.png
+- Assets/Nature/Prefabs/Fir_09_Small.prefab
+- Assets/Nature/Country side/Textures/countryside_props_glow.tif
+- Assets/Nature/Texture/T_Fir_02_Atlas_BC.tga
+- Assets/Nature/Meshes/unity_grass_grass_bush_01.fbx
+- Assets/Nature/Country side/Models/props.FBX
+- Assets/Nature/Country side/prefab/house_b.prefab
+- Assets/Nature/Prefabs/Fir_08_Small 2.prefab
+- Assets/Nature/Country side/prefab/house_d.prefab
+- Assets/Nature/Prefabs/prefab_unity_grass_grass_bush_01.prefab
+- Assets/Nature/Texture/T_grass_06_dry_A_M_U.png
+- Assets/Nature/Texture/T_grass_02_dry_A_M_U.png
+Dependencies: []
+
+fileFormatVersion: 2
+guid: c6094f50c58cd58468ad016bd8c489a2
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+
+fileFormatVersion: 2
+guid: 8ffc8b429b4ae534c87ff8627b32383b
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+
+ManifestFileVersion: 0
+CRC: 2787905234
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: terrainbundle
+      Dependencies: {}
+
+fileFormatVersion: 2
+guid: 186768aa0da490540abb2eda2a16de53
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+
+fileFormatVersion: 2
+guid: 68d5ebe5877bbfd48bea0e28a5325eea
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
